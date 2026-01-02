@@ -1,6 +1,33 @@
+# 项目配置文件
 /.ask_continue_port
 /.windsurfrules
+
+# 项目文档（本地）
 /人脸识别大作业项目要求.md
 /基于facenet的人脸识别.md
+
+# 输出目录（模型、缓存、结果）
+/output/
+
+# 旧版输出文件（兼容）
 /lfw_cache.pkl
+/face_database.pkl
+/loss_curve.png
+/evaluation_results.png
+/multi_face_result.png
+/multi_face_test.jpg
+/multi_face_detection_result.png
+/checkpoints/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# 日志文件
 *.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
