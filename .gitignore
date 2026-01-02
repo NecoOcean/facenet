@@ -9,6 +9,7 @@
 # 输出目录（模型、缓存、结果）
 /output/
 !/output/facenet_project.ipynb
+!/output/results/
 
 # 旧版输出文件（兼容）
 /lfw_cache.pkl
