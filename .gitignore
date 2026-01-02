@@ -5,11 +5,13 @@
 # 项目文档（本地）
 /人脸识别大作业项目要求.md
 /基于facenet的人脸识别.md
+/课程报告.md
+/pictures
 
 # 输出目录（模型、缓存、结果）
 /output/
-!/output/facenet_project.ipynb
-!/output/results/
+# !/output/facenet_project.ipynb
+# !/output/results/
 
 # 旧版输出文件（兼容）
 /lfw_cache.pkl
